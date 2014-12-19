@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>161FB790-32DB-4F8A-B64E-2897D78C26A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fraction_Calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7AC94A57460F3262F92160F6034EE87F5757A14B</key>
+		<string>https://github.com/ergalleg886/Fraction_Calc.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Fraction_Calculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7AC94A57460F3262F92160F6034EE87F5757A14B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ergalleg886/Fraction_Calc.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7AC94A57460F3262F92160F6034EE87F5757A14B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7AC94A57460F3262F92160F6034EE87F5757A14B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Fraction_Calc</string>
+		</dict>
+	</array>
+</dict>
+</plist>
